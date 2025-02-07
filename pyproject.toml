@@ -1,0 +1,5 @@
+[project]
+name = "free-ai-bible"
+version = "0.1.0"
+description = "🧠 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 — Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources."
+requires-python = ">=3.10"

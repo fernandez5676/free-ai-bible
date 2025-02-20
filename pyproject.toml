@@ -5,3 +5,4 @@ description = "🧠 The Ultimate Directory of Free AI APIs & Tools for Developer
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # clarify the control flow
+# drop an unused branch
